@@ -1,3 +1,4 @@
 # 📈ECG-peak-detection📉
-For BMED 3110, this code takes sample ECG data and attempts to detect R Peaks. 
+This code takes sample ECG data and attempts to detect R Peaks. 
+It also creates the accompanying graphs to visualize false positives, true negatives, etc...
 
