@@ -1,0 +1,8 @@
+Calculated R Peaks:[ 309  773 1282 1745 2159 2527 2891 3360 3899 4435]
+Actual R Peaks:[310.0, 773.0, 1282.0, 1745.0, 2159.0, 2527.0, 2891.0, 3361.0, 3898.0, 4436.0]
+Sensitivity: 1.0
+FP: 0
+TP: 10
+FN: 0
+Calculated Heartrate(bpm): 63.1578947368421
+Actual Heartrate(bpm): 63.1578947368421
