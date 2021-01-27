@@ -11,7 +11,7 @@
 ## Further info"
 In my repo you will find the following structure:
 - •	ECG-peak-detection
- - o	Results
+ -- o	Results
   -	Engelse and Zeelenberg
   -	Hamilton
  -o	ECG Data
