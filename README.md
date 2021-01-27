@@ -11,12 +11,12 @@
 ## Further info"
 In my repo you will find the following structure:
 - •	ECG-peak-detection
- -- o	Results
-  -	Engelse and Zeelenberg
-  -	Hamilton
- -o	ECG Data
- -o	peak-detection.py	
- -o	README.md (because of Github)
+  - o	Results
+   -	Engelse and Zeelenberg
+   -	Hamilton
+  -o	ECG Data
+  -o	peak-detection.py	
+  -o	README.md (because of Github)
 
 I used the python library biosppy for filtering the ECG data. 
 I use NumPy, and Pandas for data manipulation, I use OS for saving to files, and use Matplotlib for visualizations. 
@@ -44,12 +44,12 @@ Meaning: **There were no False Positive nor False Negatives, everything was a Tr
 You can look at all my results in the Results folder. There are two types of files for every dataset:
 
 - 1.	The results file that contains:
- -a.	the derived r-peaks 
- -b.	the actual r-peaks
- -c.	FP
- -d.	FN
- -e.	TP
- -f.	Sensitivity
- -g.	calculated bpm
- -h.	actual bpm 
+  -a.	the derived r-peaks 
+  -b.	the actual r-peaks
+  -c.	FP
+  -d.	FN
+  -e.	TP
+  -f.	Sensitivity
+  -g.	calculated bpm
+  -h.	actual bpm 
 - 2.	A jpg of four graphs. One contains a visualization of the raw data, another the filtered data. The third shows the r-peaks, and the fourth shows the templates (meaning the pattern of heartrate for each r-peak to see differences amongst the same dataset). These are standard visualizations for this kind of data.
